@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1523191159 source:d:\informatykajd\funkcjematematyczne\fibonaccisequence.cpp
+	"FibonacciSequence.hpp"
+
+1523191159 d:\informatykajd\funkcjematematyczne\fibonaccisequence.hpp
+
+1523195314 source:d:\informatykajd\funkcjematematyczne\main.cpp
+	<iostream>
+	<conio.h>
+	"FibonacciSequence.hpp"
+	"Currency.hpp"
+	"ReplaceUnits.hpp"
+	"capitalization.hpp"
+	"discounting.hpp"
+
+1523191159 source:d:\informatykajd\funkcjematematyczne\currency.cpp
+	"Currency.hpp"
+
+1523191159 d:\informatykajd\funkcjematematyczne\currency.hpp
+
+1523191159 source:d:\informatykajd\funkcjematematyczne\kapitalizacja.cpp
+	"kapitalizacja.hpp"
+	<cmath>
+
+1523191159 d:\informatykajd\funkcjematematyczne\kapitalizacja.hpp
+
+1523191436 d:\informatykajd\funkcjematematyczne\replaceunits.hpp
+
+1523191436 source:d:\informatykajd\funkcjematematyczne\replaceunits.cpp
+	"ReplaceUnits.hpp"
+
+1523192394 source:d:\informatykajd\funkcjematematyczne\dyskontowanie.cpp
+	"dyskontowanie.hpp"
+	<cmath>
+
+1523192374 d:\informatykajd\funkcjematematyczne\dyskontowanie.hpp
+
+1523195314 source:d:\informatykajd\funkcjematematyczne\capitalization.cpp
+	"capitalization.hpp"
+	<cmath>
+
+1523195314 d:\informatykajd\funkcjematematyczne\capitalization.hpp
+
+1523195314 source:d:\informatykajd\funkcjematematyczne\discounting.cpp
+	"discounting.hpp"
+	<cmath>
+
+1523195314 d:\informatykajd\funkcjematematyczne\discounting.hpp
+
